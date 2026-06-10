@@ -11,12 +11,13 @@
 ## 🔧 What I'm Working On
 
 - 🚀 Getting familiar with **Computer Vision**.
-- 📖 Trying to **pass my exams** while working on projects and learning new things 
+- 📖 Trying to **pass my exams** while working on projects and learning new things
+- 🎮 Developing a game in **Unity** as part of a small development team(exam break right now).
 ---
 
 ## 🌱 Goals
 
-- Talk to God
+- Find God
 - Improve my coding skills and problem-solving abilities  
 - Explore AI, machine learning, and find new fields that i would love to work in
 - Build a portfolio of impactful projects  
@@ -26,8 +27,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java  
-- **Tools & Tech:** Eclipse, Pycharm, Elementor Wordpress, VSCode, CodeBlocks
+- **Languages:** Python, Java, HTML/CSS/JS, C#  
+- **Tools & Tech:** Pycharm, Eclipse, Elementor Wordpress, VSCode, CodeBlocks
 
 ---
 
