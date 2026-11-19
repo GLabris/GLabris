@@ -12,7 +12,7 @@
 
 - 🚀 Getting familiar with **Computer Vision**
 - 📖 Trying to **pass my exams** while working on projects and learning new things
-- 🎮 Developing a game in **Unity** as part of a small development team(exam break right now)
+- 🔧 Repairing mobile phones and scaling it to something bigger
 ---
 
 ## 🌱 Goals
