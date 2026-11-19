@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, Java, HTML/CSS/JS, C#  
-- **Tools & Tech:** Pycharm, Eclipse, Davinci Resolve, Canva, Elementor Wordpress, VSCode, CodeBlocks, GIMP
+- **Tools & Tech:** Pycharm, Eclipse, Davinci Resolve, Canva, Elementor Wordpress, VSCode, Android Studio, GIMP
 
 ---
 
